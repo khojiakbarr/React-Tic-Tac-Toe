@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 // X/O (Tic‑Tac‑Toe) — single file React component
 // Beautiful responsive UI with Tailwind classes
