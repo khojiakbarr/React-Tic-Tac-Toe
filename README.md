@@ -41,7 +41,7 @@ npm start
 - Tailwind CSS is required for styling.
 
 ## Example Screenshot
-*(![alt text](image.png))*
+*![alt text](image.png)*
 
 ## License
 This project is licensed under the MIT License.
